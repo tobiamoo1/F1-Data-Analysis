@@ -1,5 +1,5 @@
 # F1-Data-Analysis
-The aim of this project is to to practice relational database design and SQL analytics.
+The aim of this project is to to practice relational database design and SQL analytics using actual data.
 
 To accomplish this, real F1 data within the "formula_ 1_2025_complete" dataset was used to write queries to answer analytical questions about drivers, constructors, races, and results.
 
