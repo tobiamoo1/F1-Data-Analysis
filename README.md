@@ -10,5 +10,6 @@ The project involved designing an entity relationship diagram based on the Formu
 
 The SQL analysis questions were then completed using this database design. 
 
+Using this method gives the opportunity to practise with real SQL database architecture
 
 Tools used include: MySQL Database and MySQL Workbench
