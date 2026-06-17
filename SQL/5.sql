@@ -1,0 +1,3 @@
+SELECT DISTINCT alt 
+FROM f1.circuits 
+ORDER BY alt DESC;
