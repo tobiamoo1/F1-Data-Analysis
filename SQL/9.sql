@@ -4,10 +4,9 @@ SELECT
     r.name AS race_name,
     c.name AS circuit_name,
     c.location,
-    c.country,
-    c.alt AS altitude_meters
+    c.country
 FROM races r
 JOIN circuits c
     ON r.circuitid = c.circuitid
-WHERE c.alt > 800
-ORDER BY c.alt DESC, r.year;
+WHERE c.country IN ('UK', 'United Kingdom')
+ORDER BY r.year;
